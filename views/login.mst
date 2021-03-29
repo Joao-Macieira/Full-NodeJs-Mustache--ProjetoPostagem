@@ -1,0 +1,7 @@
+<h1>Faça o seu login</h1>
+
+<form method="get">
+    <input type='text' name='usuario' placeholder='Seu usuário'>
+
+    <button>Entrar</button>
+</form>
